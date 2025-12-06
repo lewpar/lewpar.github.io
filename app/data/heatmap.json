@@ -371,7 +371,7 @@
   },
   {
     "date": "2025-02-13",
-    "contributionCount": 23,
+    "contributionCount": 22,
     "color": "#30a14e"
   },
   {
@@ -1846,6 +1846,11 @@
   },
   {
     "date": "2025-12-05",
+    "contributionCount": 0,
+    "color": "#ebedf0"
+  },
+  {
+    "date": "2025-12-06",
     "contributionCount": 0,
     "color": "#ebedf0"
   }
