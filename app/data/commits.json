@@ -1,5 +1,614 @@
 [
   {
+    "sha": "3f18ba79909c9ff58da25cbe4151c0093d56c21f",
+    "node_id": "C_kwDOQl2hb9oAKDNmMThiYTc5OTA5YzlmZjU4ZGEyNWNiZTQxNTFjMDA5M2Q1NmMyMWY",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T23:12:19Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T23:12:19Z"
+      },
+      "message": "Added live feed component and created websocket helper module.",
+      "tree": {
+        "sha": "b3d7a1a96c9cb443e83ea6fd38198bc04397b558",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/b3d7a1a96c9cb443e83ea6fd38198bc04397b558"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/3f18ba79909c9ff58da25cbe4151c0093d56c21f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/3f18ba79909c9ff58da25cbe4151c0093d56c21f",
+    "html_url": "https://github.com/lewpar/TheEye/commit/3f18ba79909c9ff58da25cbe4151c0093d56c21f",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/3f18ba79909c9ff58da25cbe4151c0093d56c21f/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+        "html_url": "https://github.com/lewpar/TheEye/commit/49bf7b44c842dfe99186f348de7bf9b4c90b5216"
+      }
+    ],
+    "stats": {
+      "total": 126,
+      "additions": 79,
+      "deletions": 47
+    }
+  },
+  {
+    "sha": "49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+    "node_id": "C_kwDOQl2hb9oAKDQ5YmY3YjQ0Yzg0MmRmZTk5MTg2ZjM0OGRlN2JmOWI0YzkwYjUyMTY",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T20:59:50Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T20:59:50Z"
+      },
+      "message": "Added test code for websocket stream.",
+      "tree": {
+        "sha": "ffac25c66c42d2453884b8e26b7922b737995734",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/ffac25c66c42d2453884b8e26b7922b737995734"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+    "html_url": "https://github.com/lewpar/TheEye/commit/49bf7b44c842dfe99186f348de7bf9b4c90b5216",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/49bf7b44c842dfe99186f348de7bf9b4c90b5216/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "165de0533635e21cd5ca585c9fa0c429c3af1dae",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/165de0533635e21cd5ca585c9fa0c429c3af1dae",
+        "html_url": "https://github.com/lewpar/TheEye/commit/165de0533635e21cd5ca585c9fa0c429c3af1dae"
+      }
+    ],
+    "stats": {
+      "total": 147,
+      "additions": 133,
+      "deletions": 14
+    }
+  },
+  {
+    "sha": "165de0533635e21cd5ca585c9fa0c429c3af1dae",
+    "node_id": "C_kwDOQl2hb9oAKDE2NWRlMDUzMzYzNWUyMWNkNWNhNTg1YzlmYTBjNDI5YzNhZjFkYWU",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T10:39:02Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T10:39:02Z"
+      },
+      "message": "Added nuxt app.",
+      "tree": {
+        "sha": "19bbae145f49823171cf36d2e936360b6e1fa809",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/19bbae145f49823171cf36d2e936360b6e1fa809"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/165de0533635e21cd5ca585c9fa0c429c3af1dae",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/165de0533635e21cd5ca585c9fa0c429c3af1dae",
+    "html_url": "https://github.com/lewpar/TheEye/commit/165de0533635e21cd5ca585c9fa0c429c3af1dae",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/165de0533635e21cd5ca585c9fa0c429c3af1dae/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+        "html_url": "https://github.com/lewpar/TheEye/commit/b889e660ecf0e47dae6aca5bc5a994f68a7174c8"
+      }
+    ],
+    "stats": {
+      "total": 13477,
+      "additions": 13477,
+      "deletions": 0
+    }
+  },
+  {
+    "sha": "b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+    "node_id": "C_kwDOQl2hb9oAKGI4ODllNjYwZWNmMGU0N2RhZTZhY2E1YmM1YTk5NGY2OGE3MTc0Yzg",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:39:27Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:39:27Z"
+      },
+      "message": "CV2 frame now supports multiple faces.",
+      "tree": {
+        "sha": "e9a185aa23b4dde045aee283125a6ca41a79ca25",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/e9a185aa23b4dde045aee283125a6ca41a79ca25"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+    "html_url": "https://github.com/lewpar/TheEye/commit/b889e660ecf0e47dae6aca5bc5a994f68a7174c8",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/b889e660ecf0e47dae6aca5bc5a994f68a7174c8/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+        "html_url": "https://github.com/lewpar/TheEye/commit/0105c51ff9ecee895c56d3108c11f9ea92edf6a2"
+      }
+    ],
+    "stats": {
+      "total": 6,
+      "additions": 4,
+      "deletions": 2
+    }
+  },
+  {
+    "sha": "0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+    "node_id": "C_kwDOQl2hb9oAKDAxMDVjNTFmZjllY2VlODk1YzU2ZDMxMDhjMTFmOWVhOTJlZGY2YTI",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:21:40Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:21:40Z"
+      },
+      "message": "Cleaned up imports.",
+      "tree": {
+        "sha": "b9ce80788fe76de3d13bcf25f53b665e71d320a9",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/b9ce80788fe76de3d13bcf25f53b665e71d320a9"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+    "html_url": "https://github.com/lewpar/TheEye/commit/0105c51ff9ecee895c56d3108c11f9ea92edf6a2",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/0105c51ff9ecee895c56d3108c11f9ea92edf6a2/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "94465a8d2444c369f10d979d52c1243c3cd47dd4",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/94465a8d2444c369f10d979d52c1243c3cd47dd4",
+        "html_url": "https://github.com/lewpar/TheEye/commit/94465a8d2444c369f10d979d52c1243c3cd47dd4"
+      }
+    ],
+    "stats": {
+      "total": 6,
+      "additions": 2,
+      "deletions": 4
+    }
+  },
+  {
+    "sha": "94465a8d2444c369f10d979d52c1243c3cd47dd4",
+    "node_id": "C_kwDOQl2hb9oAKDk0NDY1YThkMjQ0NGMzNjlmMTBkOTc5ZDUyYzEyNDNjM2NkNDdkZDQ",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:19:18Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:19:18Z"
+      },
+      "message": "Added embedding data function to pipeline.",
+      "tree": {
+        "sha": "173eeb16fe96be50a4acba84b5d57550fda87511",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/173eeb16fe96be50a4acba84b5d57550fda87511"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/94465a8d2444c369f10d979d52c1243c3cd47dd4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/94465a8d2444c369f10d979d52c1243c3cd47dd4",
+    "html_url": "https://github.com/lewpar/TheEye/commit/94465a8d2444c369f10d979d52c1243c3cd47dd4",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/94465a8d2444c369f10d979d52c1243c3cd47dd4/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+        "html_url": "https://github.com/lewpar/TheEye/commit/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04"
+      }
+    ],
+    "stats": {
+      "total": 29,
+      "additions": 13,
+      "deletions": 16
+    }
+  },
+  {
+    "sha": "a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+    "node_id": "C_kwDOQl2hb9oAKGE5N2M4ZWJmMGE1YjRkYjQ3NWM1ZjhiMmVkNTJhNWU2N2RjMDRiMDQ",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:02:59Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2025-12-11T04:02:59Z"
+      },
+      "message": "Added pipeline module to reduce complexity.",
+      "tree": {
+        "sha": "cad580873b4ae44719f58cf8e006c96dbc33fb84",
+        "url": "https://api.github.com/repos/lewpar/TheEye/git/trees/cad580873b4ae44719f58cf8e006c96dbc33fb84"
+      },
+      "url": "https://api.github.com/repos/lewpar/TheEye/git/commits/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/TheEye/commits/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+    "html_url": "https://github.com/lewpar/TheEye/commit/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04",
+    "comments_url": "https://api.github.com/repos/lewpar/TheEye/commits/a97c8ebf0a5b4db475c5f8b2ed52a5e67dc04b04/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "17d4d1488d1dd363afe2edeca309252337742364",
+        "url": "https://api.github.com/repos/lewpar/TheEye/commits/17d4d1488d1dd363afe2edeca309252337742364",
+        "html_url": "https://github.com/lewpar/TheEye/commit/17d4d1488d1dd363afe2edeca309252337742364"
+      }
+    ],
+    "stats": {
+      "total": 173,
+      "additions": 120,
+      "deletions": 53
+    }
+  },
+  {
     "sha": "17d4d1488d1dd363afe2edeca309252337742364",
     "node_id": "C_kwDOQl2hb9oAKDE3ZDRkMTQ4OGQxZGQzNjNhZmUyZWRlY2EzMDkyNTIzMzc3NDIzNjQ",
     "commit": {
