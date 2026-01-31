@@ -1,5 +1,92 @@
 [
   {
+    "sha": "b3c11976fcd5768ddeae4699f42af8c283323f9f",
+    "node_id": "C_kwDOREhUvNoAKGIzYzExOTc2ZmNkNTc2OGRkZWFlNDY5OWY0MmFmOGMyODMzMjNmOWY",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-01-30T01:08:20Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-01-30T01:08:20Z"
+      },
+      "message": "Removed .bash_profile overwrite.",
+      "tree": {
+        "sha": "62026d3aee35fc6a0cfac1c0db850f94809463cb",
+        "url": "https://api.github.com/repos/lewpar/LCD-show/git/trees/62026d3aee35fc6a0cfac1c0db850f94809463cb"
+      },
+      "url": "https://api.github.com/repos/lewpar/LCD-show/git/commits/b3c11976fcd5768ddeae4699f42af8c283323f9f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/lewpar/LCD-show/commits/b3c11976fcd5768ddeae4699f42af8c283323f9f",
+    "html_url": "https://github.com/lewpar/LCD-show/commit/b3c11976fcd5768ddeae4699f42af8c283323f9f",
+    "comments_url": "https://api.github.com/repos/lewpar/LCD-show/commits/b3c11976fcd5768ddeae4699f42af8c283323f9f/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3fdfac02b914a7597a8010ece5b7082b9f5836e8",
+        "url": "https://api.github.com/repos/lewpar/LCD-show/commits/3fdfac02b914a7597a8010ece5b7082b9f5836e8",
+        "html_url": "https://github.com/lewpar/LCD-show/commit/3fdfac02b914a7597a8010ece5b7082b9f5836e8"
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1
+    }
+  },
+  {
     "sha": "edbdad81cf598c631572829784b8b1052900132c",
     "node_id": "C_kwDORB6UnNoAKGVkYmRhZDgxY2Y1OThjNjMxNTcyODI5Nzg0YjhiMTA1MjkwMDEzMmM",
     "commit": {
