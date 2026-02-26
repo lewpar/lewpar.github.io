@@ -1,5 +1,92 @@
 [
   {
+    "sha": "b36da75af65677eb20ffc3cea955247600fda813",
+    "node_id": "C_kwDORNrnttoAKGIzNmRhNzVhZjY1Njc3ZWIyMGZmYzNjZWE5NTUyNDc2MDBmZGE4MTM",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-02-25T09:32:36Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-02-25T09:32:36Z"
+      },
+      "message": "Added vercel configuration to rewrite server-side routes to the react router.",
+      "tree": {
+        "sha": "cdcd10efe3e8ec0473c5a0330e72b4c999b940e6",
+        "url": "https://api.github.com/repos/BKI-CIV-IT-2026/supabase-auth-demo/git/trees/cdcd10efe3e8ec0473c5a0330e72b4c999b940e6"
+      },
+      "url": "https://api.github.com/repos/BKI-CIV-IT-2026/supabase-auth-demo/git/commits/b36da75af65677eb20ffc3cea955247600fda813",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/BKI-CIV-IT-2026/supabase-auth-demo/commits/b36da75af65677eb20ffc3cea955247600fda813",
+    "html_url": "https://github.com/BKI-CIV-IT-2026/supabase-auth-demo/commit/b36da75af65677eb20ffc3cea955247600fda813",
+    "comments_url": "https://api.github.com/repos/BKI-CIV-IT-2026/supabase-auth-demo/commits/b36da75af65677eb20ffc3cea955247600fda813/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0f0cfd575424dab59a33872114a4e8e2b0959cb4",
+        "url": "https://api.github.com/repos/BKI-CIV-IT-2026/supabase-auth-demo/commits/0f0cfd575424dab59a33872114a4e8e2b0959cb4",
+        "html_url": "https://github.com/BKI-CIV-IT-2026/supabase-auth-demo/commit/0f0cfd575424dab59a33872114a4e8e2b0959cb4"
+      }
+    ],
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0
+    }
+  },
+  {
     "sha": "fdf610482ef25ff593f919d5c40e21b151302035",
     "node_id": "C_kwDORXUe_9oAKGZkZjYxMDQ4MmVmMjVmZjU5M2Y5MTlkNWM0MGUyMWIxNTEzMDIwMzU",
     "commit": {
