@@ -1,5 +1,179 @@
 [
   {
+    "sha": "b39c0b592827f18332f707e8798039dc7334b54d",
+    "node_id": "C_kwDOR93vWNoAKGIzOWMwYjU5MjgyN2YxODMzMmY3MDdlODc5ODAzOWRjNzMzNGI1NGQ",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-04-11T10:17:43Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-04-11T10:17:43Z"
+      },
+      "message": "Update authoring doc with page/nav guide.",
+      "tree": {
+        "sha": "206149d8a95296b327fe5c96604539e883635176",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/git/trees/206149d8a95296b327fe5c96604539e883635176"
+      },
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/git/commits/b39c0b592827f18332f707e8798039dc7334b54d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/b39c0b592827f18332f707e8798039dc7334b54d",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commit/b39c0b592827f18332f707e8798039dc7334b54d",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/b39c0b592827f18332f707e8798039dc7334b54d/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0317cb5faf77ad77c59393e93b9490bf7267e771",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/0317cb5faf77ad77c59393e93b9490bf7267e771",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commit/0317cb5faf77ad77c59393e93b9490bf7267e771"
+      }
+    ],
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0
+    }
+  },
+  {
+    "sha": "0317cb5faf77ad77c59393e93b9490bf7267e771",
+    "node_id": "C_kwDOR93vWNoAKDAzMTdjYjVmYWY3N2FkNzdjNTkzOTNlOTNiOTQ5MGJmNzI2N2U3NzE",
+    "commit": {
+      "author": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-04-11T02:51:00Z"
+      },
+      "committer": {
+        "name": "lewpar",
+        "email": "lewis.o.parmenter@gmail.com",
+        "date": "2026-04-11T02:51:00Z"
+      },
+      "message": "Added an authoring guide (unfinished)",
+      "tree": {
+        "sha": "161978eb8273172f7ef1955ea7ae8025b70b8b8b",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/git/trees/161978eb8273172f7ef1955ea7ae8025b70b8b8b"
+      },
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/git/commits/0317cb5faf77ad77c59393e93b9490bf7267e771",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/0317cb5faf77ad77c59393e93b9490bf7267e771",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commit/0317cb5faf77ad77c59393e93b9490bf7267e771",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/0317cb5faf77ad77c59393e93b9490bf7267e771/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0977acf892411977c751ce9e8cad97c8952b796c",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commits/0977acf892411977c751ce9e8cad97c8952b796c",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/ciii-programming-and-design-mkdocs/commit/0977acf892411977c751ce9e8cad97c8952b796c"
+      }
+    ],
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0
+    }
+  },
+  {
     "sha": "0977acf892411977c751ce9e8cad97c8952b796c",
     "node_id": "C_kwDOR93vWNoAKDA5NzdhY2Y4OTI0MTE5NzdjNzUxY2U5ZThjYWQ5N2M4OTUyYjc5NmM",
     "commit": {
@@ -7832,180 +8006,6 @@
       "total": 76,
       "additions": 41,
       "deletions": 35
-    }
-  },
-  {
-    "sha": "0ecc55a304768af639ca56162abef0d750aa7930",
-    "node_id": "C_kwDORyEVp9oAKDBlY2M1NWEzMDQ3NjhhZjYzOWNhNTYxNjJhYmVmMGQ3NTBhYTc5MzA",
-    "commit": {
-      "author": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-04-01T07:41:01Z"
-      },
-      "committer": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-04-01T07:41:01Z"
-      },
-      "message": "Added some sample assets for demo site.",
-      "tree": {
-        "sha": "da4f8c5772dced865083429bfc7bae526ca5a764",
-        "url": "https://api.github.com/repos/lewpar/lcms/git/trees/da4f8c5772dced865083429bfc7bae526ca5a764"
-      },
-      "url": "https://api.github.com/repos/lewpar/lcms/git/commits/0ecc55a304768af639ca56162abef0d750aa7930",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/lewpar/lcms/commits/0ecc55a304768af639ca56162abef0d750aa7930",
-    "html_url": "https://github.com/lewpar/lcms/commit/0ecc55a304768af639ca56162abef0d750aa7930",
-    "comments_url": "https://api.github.com/repos/lewpar/lcms/commits/0ecc55a304768af639ca56162abef0d750aa7930/comments",
-    "author": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-        "url": "https://api.github.com/repos/lewpar/lcms/commits/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-        "html_url": "https://github.com/lewpar/lcms/commit/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2"
-      }
-    ],
-    "stats": {
-      "total": 0,
-      "additions": 0,
-      "deletions": 0
-    }
-  },
-  {
-    "sha": "3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-    "node_id": "C_kwDORyEVp9oAKDNiZTQ2YTI2YzNhY2RmNWNkYmM0NTFmMGIzMjBlZjdjOGY1OGFmZTI",
-    "commit": {
-      "author": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-04-01T07:30:28Z"
-      },
-      "committer": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-04-01T07:30:28Z"
-      },
-      "message": "Improve image block: media picker dialog, size/align overrides\n\n- Media picker now renders via portal to escape DOM containment issues\n- Picker requires selecting an image then confirming with a button\n- Image block overrides section: width, height (checkbox + number + unit),\n  and alignment (left/center/right) applied as float or margin:auto on the img\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
-      "tree": {
-        "sha": "aee2ab1242e4cabf8f9d0d106b9919ebd4fccdbb",
-        "url": "https://api.github.com/repos/lewpar/lcms/git/trees/aee2ab1242e4cabf8f9d0d106b9919ebd4fccdbb"
-      },
-      "url": "https://api.github.com/repos/lewpar/lcms/git/commits/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/lewpar/lcms/commits/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-    "html_url": "https://github.com/lewpar/lcms/commit/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2",
-    "comments_url": "https://api.github.com/repos/lewpar/lcms/commits/3be46a26c3acdf5cdbc451f0b320ef7c8f58afe2/comments",
-    "author": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "41bafd08b8bd560d703dd4a16250d53996a3c4c4",
-        "url": "https://api.github.com/repos/lewpar/lcms/commits/41bafd08b8bd560d703dd4a16250d53996a3c4c4",
-        "html_url": "https://github.com/lewpar/lcms/commit/41bafd08b8bd560d703dd4a16250d53996a3c4c4"
-      }
-    ],
-    "stats": {
-      "total": 170,
-      "additions": 164,
-      "deletions": 6
     }
   }
 ]
