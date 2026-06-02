@@ -1356,8 +1356,8 @@
   },
   {
     "date": "2026-02-27",
-    "contributionCount": 19,
-    "color": "#40c463"
+    "contributionCount": 20,
+    "color": "#30a14e"
   },
   {
     "date": "2026-02-28",
@@ -1826,7 +1826,12 @@
   },
   {
     "date": "2026-06-01",
-    "contributionCount": 0,
-    "color": "#ebedf0"
+    "contributionCount": 2,
+    "color": "#9be9a8"
+  },
+  {
+    "date": "2026-06-02",
+    "contributionCount": 14,
+    "color": "#40c463"
   }
 ]
