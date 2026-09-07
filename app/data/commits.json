@@ -1,7 +1,7 @@
 [
   {
     "sha": "58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
-    "node_id": "C_kwDORoD7RdoAKDU4YTFmYTMwMGJjMjFkNWIxMmVjNWE2YmE4NzVkODhkMTkxYzBmMDc",
+    "node_id": "C_kwDORoEyvtoAKDU4YTFmYTMwMGJjMjFkNWIxMmVjNWE2YmE4NzVkODhkMTkxYzBmMDc",
     "commit": {
       "author": {
         "name": "lewpar",
@@ -16,9 +16,9 @@
       "message": "Migrated single file site to a vuejs project",
       "tree": {
         "sha": "95c7f8bedcd73718c0df2bc8fe464e33b43b6276",
-        "url": "https://api.github.com/repos/lewpar/checksum-generator/git/trees/95c7f8bedcd73718c0df2bc8fe464e33b43b6276"
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/checksum-generator/git/trees/95c7f8bedcd73718c0df2bc8fe464e33b43b6276"
       },
-      "url": "https://api.github.com/repos/lewpar/checksum-generator/git/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/checksum-generator/git/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -28,9 +28,9 @@
         "verified_at": null
       }
     },
-    "url": "https://api.github.com/repos/lewpar/checksum-generator/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
-    "html_url": "https://github.com/lewpar/checksum-generator/commit/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
-    "comments_url": "https://api.github.com/repos/lewpar/checksum-generator/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07/comments",
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/checksum-generator/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/checksum-generator/commit/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/checksum-generator/commits/58a1fa300bc21d5b12ec5a6ba875d88d191c0f07/comments",
     "author": {
       "login": "lewpar",
       "id": 97650662,
@@ -76,8 +76,8 @@
     "parents": [
       {
         "sha": "dc6b267b27bae1a12c2527d78be707c2d5e2042e",
-        "url": "https://api.github.com/repos/lewpar/checksum-generator/commits/dc6b267b27bae1a12c2527d78be707c2d5e2042e",
-        "html_url": "https://github.com/lewpar/checksum-generator/commit/dc6b267b27bae1a12c2527d78be707c2d5e2042e"
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/checksum-generator/commits/dc6b267b27bae1a12c2527d78be707c2d5e2042e",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/checksum-generator/commit/dc6b267b27bae1a12c2527d78be707c2d5e2042e"
       }
     ],
     "stats": {
