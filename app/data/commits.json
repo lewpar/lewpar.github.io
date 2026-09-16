@@ -92,6 +92,98 @@
     }
   },
   {
+    "sha": "b20be2b64743e0d03d5b1ca938694160653c1811",
+    "node_id": "C_kwDOR93vWNoAKGIyMGJlMmI2NDc0M2UwZDAzZDViMWNhOTM4Njk0MTYwNjUzYzE4MTE",
+    "commit": {
+      "author": {
+        "name": "Lewis Parmenter",
+        "email": "97650662+lewpar@users.noreply.github.com",
+        "date": "2026-09-13T23:25:40Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-09-13T23:25:40Z"
+      },
+      "message": "Merge pull request #84 from Digital-Initiatives-Kangan-Institute/upgrade-advanced-sites\n\nUpgrade build advanced interfaces with new material",
+      "tree": {
+        "sha": "833dce3130f093a68619179dc66cedf8ca8598fd",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/trees/833dce3130f093a68619179dc66cedf8ca8598fd"
+      },
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/commits/b20be2b64743e0d03d5b1ca938694160653c1811",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqpzD0CRC1aQ7uu5UhlAAAeCwQAHTuworK33WfAPUOGZGEiqVK\n7Y3eSvy4jeX/j9BkMrmPrK/jnLueXudrXX/EWoLYONn+gCJRqQ9egjMWg/a4ow4T\nQNMZz5j5d2rbPi0i6l3s2dPzfsypfyLe07wDpMwO8BAyK9XqFUxsT1NaMauZZ7G/\nTpRn6fa1CYeQPrNwBdCh8Cf52KY5GfsZhCoWji9ZwLdAjZqtl7jE7wvopovZkJpf\nVy6BqJRjYQoY8SwMkZTDBsfbc7XEuEkidNS2cXLwERR6oMvaxWytxmaomC7++PTe\nVrxosCehzyLX/LBAD70YoQkCc++j7u1cmRJYNi8t4P7oN1+9z83XSb7bAWdIQzQQ\nJ2I03YTqSrhUAlaP3PXuRKdswWdpgvLpGjeKkdcrqo86QRsBYnfOE/ArpHKEK0c3\nbDc9M2HN6LdGLUVAYyD7Oa9v/W4dTmjnzi10GhP9T7LDlZihoU/sxGCLjMbZjSEk\n+dGpo/UM0aQB+WqXul6dW3XMq5+xR1hJMRboXzq6HVJFPFVf+jj9moJ7Carpm7IV\nmo+fnpKz6XrtXoj/dctzxb/kj7PFwVKPaxWvLwmP+/p8YT0ZSEbezXEJ2yGaZkbs\n3CQXDep2mpabFpysBjfP5B8XjHQPKnY4WOgcM8fjE+GYlTERLOJGx6oz/I9CHc4s\nFwcBtufBlGQhyl3ISGRx\n=CwDz\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 833dce3130f093a68619179dc66cedf8ca8598fd\nparent 127532eae3c7dd3eedea9dea11201d7b52e0738e\nparent d3ec7da56c10ab1a20714f520aa5d8d4ab688f03\nauthor Lewis Parmenter <97650662+lewpar@users.noreply.github.com> 1789341940 +1000\ncommitter GitHub <noreply@github.com> 1789341940 +1000\n\nMerge pull request #84 from Digital-Initiatives-Kangan-Institute/upgrade-advanced-sites\n\nUpgrade build advanced interfaces with new material",
+        "verified_at": "2026-09-13T23:25:40Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/b20be2b64743e0d03d5b1ca938694160653c1811",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/b20be2b64743e0d03d5b1ca938694160653c1811",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/b20be2b64743e0d03d5b1ca938694160653c1811/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "127532eae3c7dd3eedea9dea11201d7b52e0738e",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/127532eae3c7dd3eedea9dea11201d7b52e0738e",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/127532eae3c7dd3eedea9dea11201d7b52e0738e"
+      },
+      {
+        "sha": "d3ec7da56c10ab1a20714f520aa5d8d4ab688f03",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/d3ec7da56c10ab1a20714f520aa5d8d4ab688f03",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/d3ec7da56c10ab1a20714f520aa5d8d4ab688f03"
+      }
+    ],
+    "stats": {
+      "total": 4235,
+      "additions": 3751,
+      "deletions": 484
+    }
+  },
+  {
     "sha": "d3ec7da56c10ab1a20714f520aa5d8d4ab688f03",
     "node_id": "C_kwDOR93vWNoAKGQzZWM3ZGE1NmMxMGFiMWEyMDcxNGY1MjBhYTVkOGQ0YWI2ODhmMDM",
     "commit": {
