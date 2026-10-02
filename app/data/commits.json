@@ -92,6 +92,98 @@
     }
   },
   {
+    "sha": "2f96a6e27b697c3932974bf50cf2f6131c764257",
+    "node_id": "C_kwDOR93vWNoAKDJmOTZhNmUyN2I2OTdjMzkzMjk3NGJmNTBjZjJmNjEzMWM3NjQyNTc",
+    "commit": {
+      "author": {
+        "name": "Lewis Parmenter",
+        "email": "97650662+lewpar@users.noreply.github.com",
+        "date": "2026-09-30T00:49:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-09-30T00:49:56Z"
+      },
+      "message": "Merge pull request #142 from Digital-Initiatives-Kangan-Institute/sprucetasks\n\nLink Task 11 from Planning a Website resource",
+      "tree": {
+        "sha": "d41056be7bbbad078ac2fa005750496d51bb3db7",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/trees/d41056be7bbbad078ac2fa005750496d51bb3db7"
+      },
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/commits/2f96a6e27b697c3932974bf50cf2f6131c764257",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqvFy0CRC1aQ7uu5UhlAAAwOwQAFP5neR/THoUAmRxUR8cU9gf\nYcg4mJg/kuh4mGKrGFTM/NAZ2FClkC2gorqtqVLkglby7qZnOirAuPUwdfUDmV2Z\nJy74EPhnMx6NZR4TRZEbnhkHN61zrWaqmjmEmPNM0bfcpE9jLvPZWdcO5E4SIFv1\nt4TaLv0XjeTXrb8El7Ksdo/NwT2OlvW2qnfRK7MsH0pK6fM3Dyx/z359zDP2coxt\nldQSJWBnYlPBlJDvZpsr+BHPiFfGepajaPElq1OtaG2GAFxeLstsdnT0+wANLxJ8\nD7Cru3tiRiQL94bU0/R3heBJJG7u1txjL1Koo/D5+wa5Uf+aoz0K1h2MCPco0cLX\nZFYeJGJSxwNKNBk/WFkQhsS/Ps8so+xLnuqQAGWe5NsE+x2rIRucGa6HLI8KnhIr\nP738ijG+UJ3YH955qezs6x6/L4QB8WQJlkqZrB9s6Y4IhBobeNflpWfB6HlhMx46\nkvkB6LzIyAQuErhrQ/QNZxw8n6wbXcNn944mpPgCBXt8uxgK9UPFRqNAOsi0SBTf\nXHsqoqhhgxGlhQMmdLfMsA/l34ohRA5uUPtiGBIML+JkRXXsUXckNKIw1Ld+xxNK\n2wOJtTQniSanG2rajLmCbo3cigx4pTedMK9ZrO0sbhZlEKpK4c0lFl8NA04YNYx4\nRzPy3+dRj31918p+9EEt\n=TH37\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d41056be7bbbad078ac2fa005750496d51bb3db7\nparent 71d9d2cb3267e703b382add105f15cb6102e6b08\nparent 7d3efa587f793bf07beb38ee2987dcbcbbc8c51c\nauthor Lewis Parmenter <97650662+lewpar@users.noreply.github.com> 1790729396 +1000\ncommitter GitHub <noreply@github.com> 1790729396 +1000\n\nMerge pull request #142 from Digital-Initiatives-Kangan-Institute/sprucetasks\n\nLink Task 11 from Planning a Website resource",
+        "verified_at": "2026-09-30T00:49:57Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/2f96a6e27b697c3932974bf50cf2f6131c764257",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/2f96a6e27b697c3932974bf50cf2f6131c764257",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/2f96a6e27b697c3932974bf50cf2f6131c764257/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "71d9d2cb3267e703b382add105f15cb6102e6b08",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/71d9d2cb3267e703b382add105f15cb6102e6b08",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/71d9d2cb3267e703b382add105f15cb6102e6b08"
+      },
+      {
+        "sha": "7d3efa587f793bf07beb38ee2987dcbcbbc8c51c",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/7d3efa587f793bf07beb38ee2987dcbcbbc8c51c",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/7d3efa587f793bf07beb38ee2987dcbcbbc8c51c"
+      }
+    ],
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0
+    }
+  },
+  {
     "sha": "7d3efa587f793bf07beb38ee2987dcbcbbc8c51c",
     "node_id": "C_kwDOR93vWNoAKDdkM2VmYTU4N2Y3OTNiZjA3YmViMzhlZTI5ODdkY2JjYmJjOGM1MWM",
     "commit": {
