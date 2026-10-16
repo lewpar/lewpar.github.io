@@ -92,6 +92,98 @@
     }
   },
   {
+    "sha": "3d5a59eb50974ce2abc3ef2e634a2edb7f738242",
+    "node_id": "C_kwDOR93vWNoAKDNkNWE1OWViNTA5NzRjZTJhYmMzZWYyZTYzNGEyZWRiN2Y3MzgyNDI",
+    "commit": {
+      "author": {
+        "name": "Lewis Parmenter",
+        "email": "97650662+lewpar@users.noreply.github.com",
+        "date": "2026-10-14T01:22:49Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-14T01:22:49Z"
+      },
+      "message": "Merge pull request #147 from Digital-Initiatives-Kangan-Institute/circuit-studio\n\nAdd Circuit Studio as an external tool on the portal",
+      "tree": {
+        "sha": "22ef4d55d89c873c1c7479182ff72b78e43cd688",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/trees/22ef4d55d89c873c1c7479182ff72b78e43cd688"
+      },
+      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/commits/3d5a59eb50974ce2abc3ef2e634a2edb7f738242",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqztlpCRC1aQ7uu5UhlAAAqoEQABQhgOBx4mRVIuBTkmcgSayl\nrGId9xD6Jmy3k5sYXD2iX5qXnjsV9CdMdV6b22A0Xhx1NeQNa61lMyVjyj9B/Tom\nvvVvxVMSNSD5R4QWHTJoaaMqU+hlz2UG1jmtIu1krXaLz7OEHu5vLlt5YF3yd/Jf\nXH6S+fM0VmY2pQuROeAUL6e62mqM0EYePhXHs5BFPRMfuhKdUQWsLkH5f/0aUli8\nu3HOqgExRnZ7AE3rRGo2N7HXNss8vB2Jw06StZIrl92Qtd7aFnKVKTrx3jyLmc0x\nH7A0DBrWaTw9riXX11zaFwLPi8G3yinaCY5oQNDlz0toXbm7HPj2Mq2C9tmO/Id0\nUi0ZolQbY3MPhT6ZwEpNk1Xuw/kTEin3SAZehvoYbW5z7C5DyZBD87opaR9R/Zpq\ntVsBYG4k8e/KHbnOh2gxPJgW7Rth/86pRP5qc5oEhfiEnevFDB5AxxF9YAQ5+ljL\nEae9jDHm/ak3nB0qLs9m9mO/3CxkswlKJ8Jf46E/9sXRcApDb2vkGytX7LPf1Vm6\naLGfS2NfBwByc1fIl0oEYz8RF4R1JsULDnuzaU7i/gpng0jGKb+S3mX0R7yfUoMV\nDkwabANGvrYLZj0u6pCh5UdRNR/aOeZZlK6ORG7oHjJ2eh5d16oT7mOuFtwxfIx1\nxxtvWuc0GL+AjDgdBzR9\n=jE7J\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 22ef4d55d89c873c1c7479182ff72b78e43cd688\nparent 214de5bd2bfa42109e19c8647a34c9803eeba47e\nparent 7709bed1c23e19c57917d63fdc854432a2a383a0\nauthor Lewis Parmenter <97650662+lewpar@users.noreply.github.com> 1791940969 +1100\ncommitter GitHub <noreply@github.com> 1791940969 +1100\n\nMerge pull request #147 from Digital-Initiatives-Kangan-Institute/circuit-studio\n\nAdd Circuit Studio as an external tool on the portal",
+        "verified_at": "2026-10-14T01:22:50Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/3d5a59eb50974ce2abc3ef2e634a2edb7f738242",
+    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/3d5a59eb50974ce2abc3ef2e634a2edb7f738242",
+    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/3d5a59eb50974ce2abc3ef2e634a2edb7f738242/comments",
+    "author": {
+      "login": "lewpar",
+      "id": 97650662,
+      "node_id": "U_kgDOBdIH5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lewpar",
+      "html_url": "https://github.com/lewpar",
+      "followers_url": "https://api.github.com/users/lewpar/followers",
+      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
+      "organizations_url": "https://api.github.com/users/lewpar/orgs",
+      "repos_url": "https://api.github.com/users/lewpar/repos",
+      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lewpar/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "214de5bd2bfa42109e19c8647a34c9803eeba47e",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/214de5bd2bfa42109e19c8647a34c9803eeba47e",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/214de5bd2bfa42109e19c8647a34c9803eeba47e"
+      },
+      {
+        "sha": "7709bed1c23e19c57917d63fdc854432a2a383a0",
+        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/7709bed1c23e19c57917d63fdc854432a2a383a0",
+        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/7709bed1c23e19c57917d63fdc854432a2a383a0"
+      }
+    ],
+    "stats": {
+      "total": 95,
+      "additions": 95,
+      "deletions": 0
+    }
+  },
+  {
     "sha": "8e0d8e75cac3f463fea861634e06c02176ec6d8e",
     "node_id": "C_kwDOR93vWNoAKDhlMGQ4ZTc1Y2FjM2Y0NjNmZWE4NjE2MzRlMDZjMDIxNzZlYzZkOGU",
     "commit": {
@@ -4430,93 +4522,6 @@
     }
   },
   {
-    "sha": "66c77eca3a4231f71b5fb189941034306b518c3b",
-    "node_id": "C_kwDOR93vWNoAKDY2Yzc3ZWNhM2E0MjMxZjcxYjVmYjE4OTk0MTAzNDMwNmI1MThjM2I",
-    "commit": {
-      "author": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-09-22T22:43:51Z"
-      },
-      "committer": {
-        "name": "lewpar",
-        "email": "lewis.o.parmenter@gmail.com",
-        "date": "2026-09-22T22:43:51Z"
-      },
-      "message": "Removed the old unused extra css file.",
-      "tree": {
-        "sha": "8c3a75ff2b6c2ac8f3b1ec2bf5cd68e2fdc0561d",
-        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/trees/8c3a75ff2b6c2ac8f3b1ec2bf5cd68e2fdc0561d"
-      },
-      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/commits/66c77eca3a4231f71b5fb189941034306b518c3b",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/66c77eca3a4231f71b5fb189941034306b518c3b",
-    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/66c77eca3a4231f71b5fb189941034306b518c3b",
-    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/66c77eca3a4231f71b5fb189941034306b518c3b/comments",
-    "author": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "c5d805ba2074dc97026c198bf29a7db5b9947ecd",
-        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/c5d805ba2074dc97026c198bf29a7db5b9947ecd",
-        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/c5d805ba2074dc97026c198bf29a7db5b9947ecd"
-      }
-    ],
-    "stats": {
-      "total": 64,
-      "additions": 1,
-      "deletions": 63
-    }
-  },
-  {
     "sha": "7786d1d1200323fe9a5b6e635d9911e13f30b710",
     "node_id": "C_kwDOR93vWNoAKDc3ODZkMWQxMjAwMzIzZmU5YTViNmU2MzVkOTkxMWUxM2YzMGI3MTA",
     "commit": {
@@ -4606,98 +4611,6 @@
       "total": 679,
       "additions": 95,
       "deletions": 584
-    }
-  },
-  {
-    "sha": "d98156da1f8655a291818120ffaff65d47f4555e",
-    "node_id": "C_kwDOR93vWNoAKGQ5ODE1NmRhMWY4NjU1YTI5MTgxODEyMGZmYWZmNjVkNDdmNDU1NWU",
-    "commit": {
-      "author": {
-        "name": "Lewis Parmenter",
-        "email": "97650662+lewpar@users.noreply.github.com",
-        "date": "2026-09-22T22:08:06Z"
-      },
-      "committer": {
-        "name": "GitHub",
-        "email": "noreply@github.com",
-        "date": "2026-09-22T22:08:06Z"
-      },
-      "message": "Merge pull request #128 from Digital-Initiatives-Kangan-Institute/dev\n\nMerge dev into master",
-      "tree": {
-        "sha": "a6867f3430529c832b06ab6a2a3b71dc56269e80",
-        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/trees/a6867f3430529c832b06ab6a2a3b71dc56269e80"
-      },
-      "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/git/commits/d98156da1f8655a291818120ffaff65d47f4555e",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqsvxGCRC1aQ7uu5UhlAAAARcQAD3cfclJW0oCt32c6/P+yKsb\n2h2XbU6NA5u1JY67lROzIxWQZ3KuJjS9ZTXyNeI4u53sxohRSRVzVM44uBX98Oig\nQQW6nYHWIYi8xtCdjxD5prDtJoyhTA/91YeWEed/G7MP6s+lqQ5YYi5PV/sM3JdI\nOAjZ/9713e/PrtHNZMQESl63aLO7I6Hw7ijTI8TEB/HP5Hz02rOZfH8qy6CXSY1U\nXoMNsaP6TZQNbaODI3sabWG12IxpIv14Z9FM9vyzNITHvyzXZqtEBn1W4LsPyoFE\nvFZG5VcXTN3fzVvNYoT9JAVV7D+tj8bhfddy1MuND3YdS1Tc7ryzq2uvh2F3Ixgw\nfMTTdjmTgabctTwvjKRuvwzpHh4fkGBH+AgbsMiGKbtt1W5btrPpnCfTP77fxQoG\nWcuNkWQsy3XRx/Iu3YDoVeLxq2AbRUG/tmNsnojhYPnXdnAU3GMNh7/XIz59Vu+h\nhVsp8NsZM7kE13JsQkUfrOtjkezqzij2l3LGb21pu5FI6zliK2kojvZ1SCkBdJB8\ny1LMEU8uqu/2wp81swNs1VMDvMRAK8+/aVXCmV+7CbUqxLolBTBRXpvANzgCcWvp\nCdAOnm0tA9GR1BwZ382LmQxRtvkDzWwKUuvVXs6nQRPiBTIKSOEoppI0HEBxdPS9\nQ6xfeKnCjRrivOxjTVrC\n=PdgC\n-----END PGP SIGNATURE-----\n",
-        "payload": "tree a6867f3430529c832b06ab6a2a3b71dc56269e80\nparent d7ccd6557d10d426d490e88524e5f2e5f3da5d11\nparent 6f2435a47c1706fda0a45abc7e83c26fb76e72d4\nauthor Lewis Parmenter <97650662+lewpar@users.noreply.github.com> 1790114886 +1000\ncommitter GitHub <noreply@github.com> 1790114886 +1000\n\nMerge pull request #128 from Digital-Initiatives-Kangan-Institute/dev\n\nMerge dev into master",
-        "verified_at": "2026-09-22T22:08:07Z"
-      }
-    },
-    "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/d98156da1f8655a291818120ffaff65d47f4555e",
-    "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/d98156da1f8655a291818120ffaff65d47f4555e",
-    "comments_url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/d98156da1f8655a291818120ffaff65d47f4555e/comments",
-    "author": {
-      "login": "lewpar",
-      "id": 97650662,
-      "node_id": "U_kgDOBdIH5g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97650662?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lewpar",
-      "html_url": "https://github.com/lewpar",
-      "followers_url": "https://api.github.com/users/lewpar/followers",
-      "following_url": "https://api.github.com/users/lewpar/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lewpar/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lewpar/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lewpar/subscriptions",
-      "organizations_url": "https://api.github.com/users/lewpar/orgs",
-      "repos_url": "https://api.github.com/users/lewpar/repos",
-      "events_url": "https://api.github.com/users/lewpar/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lewpar/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "web-flow",
-      "id": 19864447,
-      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/web-flow",
-      "html_url": "https://github.com/web-flow",
-      "followers_url": "https://api.github.com/users/web-flow/followers",
-      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-      "organizations_url": "https://api.github.com/users/web-flow/orgs",
-      "repos_url": "https://api.github.com/users/web-flow/repos",
-      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/web-flow/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "d7ccd6557d10d426d490e88524e5f2e5f3da5d11",
-        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/d7ccd6557d10d426d490e88524e5f2e5f3da5d11",
-        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/d7ccd6557d10d426d490e88524e5f2e5f3da5d11"
-      },
-      {
-        "sha": "6f2435a47c1706fda0a45abc7e83c26fb76e72d4",
-        "url": "https://api.github.com/repos/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commits/6f2435a47c1706fda0a45abc7e83c26fb76e72d4",
-        "html_url": "https://github.com/Digital-Initiatives-Kangan-Institute/mkdocs-sites/commit/6f2435a47c1706fda0a45abc7e83c26fb76e72d4"
-      }
-    ],
-    "stats": {
-      "total": 10,
-      "additions": 10,
-      "deletions": 0
     }
   },
   {
